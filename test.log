@@ -1,0 +1,27 @@
+ Volume in drive C is New Volume
+ Volume Serial Number is 6886-73D2
+
+ Directory of C:\Users\Asus\Desktop\g-main\g-main
+
+17-03-2026  12:05    <DIR>          .
+17-03-2026  12:05    <DIR>          ..
+17-03-2026  11:54    <DIR>          app
+17-03-2026  11:54    <DIR>          components
+16-03-2026  11:02               427 components.json
+16-03-2026  11:02               501 create-graphic-backup.bat
+17-03-2026  12:04               131 dev.log
+17-03-2026  11:54    <DIR>          hooks
+17-03-2026  11:54    <DIR>          lib
+16-03-2026  11:02               257 next-env.d.ts
+16-03-2026  11:02               181 next.config.mjs
+17-03-2026  12:01    <DIR>          node_modules
+16-03-2026  11:02           182,185 package-lock.json
+16-03-2026  11:02             2,415 package.json
+16-03-2026  11:02               144 postcss.config.mjs
+17-03-2026  11:54    <DIR>          public
+16-03-2026  11:02                 9 README.md
+17-03-2026  11:54    <DIR>          styles
+17-03-2026  12:05                 0 test.log
+16-03-2026  11:02               696 tsconfig.json
+              11 File(s)        186,946 bytes
+               9 Dir(s)  27,864,276,992 bytes free

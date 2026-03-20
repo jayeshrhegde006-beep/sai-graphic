@@ -1,0 +1,11 @@
+▲ Next.js 16.1.6 (webpack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.29.118:3000
+
+✓ Starting...
+⚠ Attempted to load @next/swc-win32-x64-msvc, but an error occurred: \\?\C:\Users\Asus\Desktop\g-main\g-main\node_modules\@next\swc-win32-x64-msvc\next-swc.win32-x64-msvc.node is not a valid Win32 application.
+\\?\C:\Users\Asus\Desktop\g-main\g-main\node_modules\@next\swc-win32-x64-msvc\next-swc.win32-x64-msvc.node
+  Skipping creating a lockfile at C:\Users\Asus\Desktop\g-main\g-main\.next\dev\lock because we're using WASM bindings
+✓ Ready in 6.9s
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+○ Compiling / ...
